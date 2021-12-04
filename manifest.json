@@ -1,0 +1,10 @@
+{
+  "id": "com.xheldon.toolkit-dev-react",
+  "name": "Craft 插件自制标准开发环境",
+  "fileName": "craft-dev-toolkit-extension",
+  "author" : "Xheldon",
+  "author-email" : "c1006044256@gmail.com",
+  "description" : "Craft 插件自制标准开发环境",
+  "api": "0.1.0",
+  "main": "index.html"
+}
